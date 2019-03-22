@@ -2,7 +2,7 @@
 - Coded in Python 3 and GUI designed with Tkinter Toolkit.
 - Crypto-Cipher-Software is using optimized and minified ttkthemes theme system.
 - It's storing your data in SQLite with encrypted.
-- Pycrypto library was used for encryption. (Including AES256 and Blowfish chiper)
+- Pycrypto library was used for encryption. (Including AES256 and Blowfish Cipher)
 
 **Screenshots:**
 
